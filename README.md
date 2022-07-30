@@ -13,7 +13,7 @@ This study is motivated by the rampant \emph{smishing} attacks in the Philippine
 4. [W266_Class_weighted_UCI_+_PH_Translated_Dataset_SMS_Spam_Detection_Final_Project.ipynb](https://colab.research.google.com/drive/1EG4zmyLo-XDOYC_J-PJg5jS7DRw8Jcnl?usp=sharing)
 
 ### Final paper 
-1. PDF
+1. [Transformers against spam (PDF)](https://github.com/mitchabdon/w266-spam-sms/blob/main/docs/W266_Transformers%20against%20spam_MA_TF.pdf)
 2. [Overleaf project](https://www.overleaf.com/project/62a55b574128ad7c73c9464d)
 
 ### Slides
