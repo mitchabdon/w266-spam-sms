@@ -7,8 +7,10 @@ This study is motivated by the rampant smishing attacks in the Philippines. The 
 
 ## Contents
 ### Colab notebooks
-1.
-2.
+1. W266_UCI_+_PH_Translated_Dataset_SMS_Spam_Detection_Final_Project.ipynb
+2. W266_UCI_Dataset_SMS_Spam_Detection_Final_Project.ipynb
+3. W266_UCI_+_PH_Dataset_SMS_Spam_Detection_Final_Project.ipynb
+4. W266_Class_weighted_UCI_+_PH_Translated_Dataset_SMS_Spam_Detection_Final_Project.ipynb
 
 ### Final paper 
 1. PDF
