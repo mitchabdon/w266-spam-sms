@@ -3,7 +3,7 @@
 MIDS W266 Summer 2022 Final Project
 
 ## Abstract
-This study is motivated by the rampant \emph{smishing} attacks in the Philippines. The SMS messages offer dubious jobs, products, and cash deals attempting to scam victims into providing sensitive information. SMS messaging remains an important medium of communication in developing countries, thus effective filtering of SMS spam messages could have wider social impact. Despite limited local-specific training data, our pre-trained transformer-based language model achieved f1-score 0.9805 and accuracy 0.9920. The languid response in addressing spam SMS is not of lack of available technology but rather on weak incentives due to scale and profits. Regulation therefore has a crucial role to plug this market failure. This could include institutionalizing SIM registration and encouraging industry collaboration. 
+This study is motivated by the rampant \emph{smishing} attacks in the Philippines. The SMS messages offer dubious jobs, products, and cash deals attempting to scam victims into providing sensitive information. SMS messaging remains an important medium of communication in developing countries, thus effective filtering of SMS spam messages could have wider social impact. Despite limited local-specific training data, our pre-trained transformer-based language model achieved f1-score 0.9805 and accuracy 0.9920. The languid response in addressing spam SMS is not of lack of available technology but rather on weak incentives due to scale and profits. Regulation therefore has a crucial role to plug this market failure. This could include institutionalizing SIM registration and incentivicing industry collaboration. 
 
 ## Contents
 ### Colab notebooks
