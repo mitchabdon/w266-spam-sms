@@ -14,7 +14,7 @@ This study is motivated by the rampant smishing attacks in the Philippines. The 
 
 ### Final paper 
 1. [Transformers against SMS spam (PDF)](https://github.com/mitchabdon/w266-spam-sms/blob/main/docs/W266_Transformers%20against%20spam_MA_TF.pdf)
-2. [Overleaf project](https://www.overleaf.com/project/62a55b574128ad7c73c9464d)
+2. [Overleaf project](https://www.overleaf.com/read/pcgymjvtvfcg)
 
 ### Slides
 1. [Google Slides](https://docs.google.com/presentation/d/1YKZcB275VV0OC-8QDzN0WFX70CH-UGy5JslP6zyG3x0/edit?usp=sharing)
